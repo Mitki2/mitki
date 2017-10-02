@@ -1,4 +1,4 @@
 <?php
-$var = "foo";
+$var = "bar";
 echo $var;
 ?>
